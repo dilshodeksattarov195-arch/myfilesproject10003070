@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicepender",
+        "uuid": 10665180,
+        "checksum": "od66bha"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
